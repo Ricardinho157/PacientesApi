@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "hPLBU/+/X2UcRlg6gbBY17WXYD9kapJqDjmbRmCHHec=",
+  "Source": "PacientesApi",
+  "BasePath": "_content/PacientesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PacientesApi\\wwwroot",
+      "Source": "PacientesApi",
+      "ContentRoot": "C:\\Users\\ra688\\Desktop\\PacientesApi\\wwwroot\\",
+      "BasePath": "_content/PacientesApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\ra688\\Desktop\\PacientesApi\\wwwroot\\index.html",
+      "SourceId": "PacientesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ra688\\Desktop\\PacientesApi\\wwwroot\\",
+      "BasePath": "_content/PacientesApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "c:\\Users\\ra688\\Desktop\\PacientesApi\\wwwroot\\script.js",
+      "SourceId": "PacientesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ra688\\Desktop\\PacientesApi\\wwwroot\\",
+      "BasePath": "_content/PacientesApi",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "c:\\Users\\ra688\\Desktop\\PacientesApi\\wwwroot\\style.css",
+      "SourceId": "PacientesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ra688\\Desktop\\PacientesApi\\wwwroot\\",
+      "BasePath": "_content/PacientesApi",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
